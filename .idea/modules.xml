@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SecureJoin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SecureJoin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SecureJoin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SecureJoin.test.iml" />
     </modules>
   </component>
 </project>

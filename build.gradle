@@ -16,11 +16,16 @@ repositories {
         name = "sonatype"
         url = "https://oss.sonatype.org/content/groups/public/"
     }
+    maven {
+        name = "spigotmc"
+        url = "https://hub.spigotmc.org/nexus/content/repositories/snapshots/"
+    }
 }
 
 dependencies {
     compileOnly("io.papermc.paper:paper-api:1.21-R0.1-SNAPSHOT")
     implementation 'io.github.cdimascio:dotenv-java:3.2.0'
+    implementation 'org.spigotmc:spigot-api:1.20.2-R0.1-SNAPSHOT'
 }
 
 tasks {
