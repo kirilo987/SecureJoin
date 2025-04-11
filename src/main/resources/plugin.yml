@@ -1,0 +1,8 @@
+name: SecureJoin
+version: '1.0-SNAPSHOT'
+main: org.kxysl1k.secureJoin.SecureJoinPlugin
+api-version: '1.21'
+prefix: SecureJoin
+load: STARTUP
+authors: [ Kxysl1k ]
+website: https://kxysl1k.netlify.app/
